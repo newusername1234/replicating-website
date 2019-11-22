@@ -1,0 +1,15 @@
+header {
+    display: inline-block;
+    outline: red;
+    width: 100%;
+}
+
+img {
+    max-height: 3rem;
+    margin-left: 3rem;
+}
+
+.headerclass{
+    float:right;
+    margin-right: 6rem;
+}
